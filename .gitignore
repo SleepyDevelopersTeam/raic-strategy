@@ -1,0 +1,5 @@
+# these files are the same for all of us
+model
+RemoteProcessClient.java
+Runner.java
+Strategy.java
